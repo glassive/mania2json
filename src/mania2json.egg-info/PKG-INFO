@@ -3,11 +3,11 @@ Name: mania2json
 Version: 0.1.1
 Summary: A Python library for parsing osu!mania 4k beatmap files
 Author-email: glassive <workingofpatch@gmail.com>
+License: MIT
 Project-URL: Homepage, https://github.com/glassive/mania2json
 Project-URL: Bug Tracker, https://github.com/glassive/mania2json/issues
 Keywords: osu!,osu,mania,4k,beatmap,parser,rhythm-game
 Classifier: Programming Language :: Python :: 3
-Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
 Classifier: Development Status :: 4 - Beta
 Classifier: Intended Audience :: Developers
