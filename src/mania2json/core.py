@@ -7,9 +7,8 @@ class mania_file_parser:
     """
     A class to parse osu!mania beatmap files and extract relevant information.
 
-    Instantiating this class will automatically read a provided .osu file and parse its contents.
-
     The parsed data is stored as class attributes for easy access.
+    
     This class is designed to handle the osu! v14 file format : https://osu.ppy.sh/wiki/Client/File_formats/osu_(file_format)
     """
 
